@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # prueba
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Prog.Avanzada
+>>>>>>> 289f3b63b3c66efb64a7df75ec26b79e3aa9bb28
